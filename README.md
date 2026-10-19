@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="gotham-banner.svg" alt="Night skyline with the bat signal" width="100%">
+<img src="manga-banner.jpg" alt="Manga panel: GASHNK" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5C518&center=true&vCenter=true&width=620&lines=It's+not+who+I+am+underneath...;...it's+what+I+ship+that+defines+me.;Full-stack+dev+%7C+React+%2B+Node+%2B+MongoDB" alt="Typing intro"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=400&size=28&duration=3500&pause=900&color=F5C518&center=true&vCenter=true&width=700&lines=It's+not+who+I+am+underneath...;...it's+what+I+ship+that+defines+me.;Full-stack+dev+%7C+React+%2B+Node+%2B+MongoDB" alt="Typing intro"></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=renissshh&color=f5c518&style=for-the-badge&label=SIGNALS+RECEIVED&labelColor=0d0d0d)
 
