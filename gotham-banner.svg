@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#05060a"/>
+<stop offset="1" stop-color="#141824"/>
+</linearGradient>
+<radialGradient id="beam" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#f5c518" stop-opacity="0.95"/>
+<stop offset="0.7" stop-color="#f5c518" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#f5c518" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="ray" x1="0" y1="1" x2="0" y2="0">
+<stop offset="0" stop-color="#f5c518" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#f5c518" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="320" fill="url(#sky)"/>
+<g fill="#cfd6e6">
+<circle cx="80" cy="40" r="1.2"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="210" cy="90" r="1"/><circle cx="330" cy="30" r="1.4"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="470" cy="70" r="1"/><circle cx="620" cy="25" r="1.1"/><circle cx="1080" cy="50" r="1.3"><animate attributeName="opacity" values="1;.3;1" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1150" cy="110" r="1"/><circle cx="560" cy="120" r="0.9"/>
+</g>
+<polygon points="960,320 1000,320 1010,95 870,95" fill="url(#ray)">
+<animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+</polygon>
+<g transform="translate(940 80)">
+<ellipse rx="110" ry="55" fill="url(#beam)">
+<animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/>
+</ellipse>
+<path fill="#05060a" d="M0,-22 l-6,-10 l-3,11 c-14,-3 -30,-3 -44,4 c14,2 22,9 24,19 c8,-6 18,-5 22,3 c2,-6 4,-9 7,-10 c3,1 5,4 7,10 c4,-8 14,-9 22,-3 c2,-10 10,-17 24,-19 c-14,-7 -30,-7 -44,-4 l-3,-11 z"/>
+</g>
+<g fill="#000000">
+<path d="M0,320 V250 h40 v-30 h30 v50 h25 v-80 h18 v-20 h10 v20 h18 v100 h30 v-60 h40 v60 h20 v-120 l20,-25 l20,25 v120 h35 v-70 h45 v70 h25 v-40 h30 v40 h20 v-110 h12 v-30 h6 v30 h12 v110 h40 v-55 h50 v55 h30 v-90 h40 v90 h20 v-60 h35 v60 h30 v-140 l15,-15 l15,15 v140 h40 v-50 h45 v50 h30 v-85 h35 v85 h40 v-45 h40 v45 h30 v-70 h50 v70 h40 v-100 h30 v100 h29 V320 Z"/>
+</g>
+<g fill="#f5c518" opacity="0.8">
+<rect x="102" y="210" width="4" height="5"/><rect x="250" y="190" width="4" height="5"/><rect x="262" y="230" width="4" height="5"/>
+<rect x="480" y="220" width="4" height="5"/><rect x="760" y="200" width="4" height="5"/><rect x="772" y="250" width="4" height="5"/>
+<rect x="1135" y="240" width="4" height="5"/>
+</g>
+<text x="60" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#f5c518" letter-spacing="2">NISSSHHH.H!</text>
+<text x="62" y="180" font-family="Consolas, Menlo, monospace" font-size="20" fill="#cfd6e6">Sri Nithish · building in the dark · Coimbatore</text>
+</svg>
