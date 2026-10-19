@@ -49,10 +49,6 @@
   <img src="https://streak-stats.demolab.com?user=renissshh&background=0D0D0D&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=CFD6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8F9C&stroke=2A2A2A&border=2A2A2A" alt="Streak">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renissshh&bg_color=0d0d0d&color=cfd6e6&line=f5c518&point=ffffff&area=true&area_color=f5c518&hide_border=false&border_color=2a2a2a&custom_title=Patrol%20log" width="100%" alt="Contribution graph">
-</div>
-
 ## 🔦 Reach the signal
 
 <p>
