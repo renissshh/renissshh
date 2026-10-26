@@ -14,3 +14,10 @@
   &nbsp;&nbsp;
   <a href="mailto:srnithishjk@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="42"></a>
 </p>
+
+<br>
+
+<h3 align="center">📈 Activity Graph</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/renissshh" alt="GitHub contribution activity for renissshh" width="100%">
+</p>
