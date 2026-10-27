@@ -29,7 +29,7 @@
 <h3 align="center">📊 GITHUB STATS</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=renissshh&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=renissshh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renissshh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
