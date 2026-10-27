@@ -58,15 +58,6 @@
 
 ---
 
-<h3 align="center">⚔️ COMPETITIVE PROGRAMMING</h3>
-
-<p align="center">
-  <!-- TODO: put your LeetCode username in place of TODO, or delete this block -->
-  <img src="https://leetcard.jacoblin.cool/TODO?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
-</p>
-
----
-
 <h3 align="center">🕸️ SKILLS &amp; DATA</h3>
 
 <!-- Radar values are the five numbers (0-10) after "data:" in the URL: Intel, Spiritual, Core, Psyche, Physical -->
