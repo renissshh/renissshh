@@ -63,9 +63,28 @@
 
 <h3 align="center">🕸️ SKILLS &amp; DATA</h3>
 
-<!-- Radar values are the five numbers (0-10) after "data:" in the URL: Intel, Spiritual, Core, Psyche, Physical -->
+<!-- Radar values are the five numbers (0-10) after "data:" in the URL: Intel, Core, Backend, Cloud (AWS), Security -->
 <p align="center">
-  <img width="420" src="https://quickchart.io/chart?bkg=%230d1117&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Intel%27%2C%27Spiritual%27%2C%27Core%27%2C%27Psyche%27%2C%27Physical%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Nissshh.h!%27%2Cdata%3A%5B6%2C4%2C7%2C6%2C5%5D%2CbackgroundColor%3A%27rgba(52%2C211%2C153%2C0.35)%27%2CborderColor%3A%27rgb(52%2C211%2C153)%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscale%3A%7Bticks%3A%7Bmin%3A0%2Cmax%3A10%2Cdisplay%3Afalse%7D%2CgridLines%3A%7Bcolor%3A%27%23666%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23cde%27%2CfontSize%3A16%7D%7D%7D%7D" alt="Skill radar chart" />
+  <img width="420" src="https://quickchart.io/chart?bkg=%230d1117&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Intel%27%2C%27Core%27%2C%27Backend%27%2C%27Cloud%20(AWS)%27%2C%27Security%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Nissshh.h!%27%2Cdata%3A%5B7%2C6%2C6%2C4%2C5%5D%2CbackgroundColor%3A%27rgba(52%2C211%2C153%2C0.35)%27%2CborderColor%3A%27rgb(52%2C211%2C153)%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscale%3A%7Bticks%3A%7Bmin%3A0%2Cmax%3A10%2Cdisplay%3Afalse%7D%2CgridLines%3A%7Bcolor%3A%27%23666%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23cde%27%2CfontSize%3A16%7D%7D%7D%7D" alt="Skill radar chart" />
+</p>
+
+---
+
+<h3 align="center">🎯 CURRENTLY LEARNING</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Networking-learning-34d399?style=for-the-badge" alt="Networking" />
+  <img src="https://img.shields.io/badge/DSA-practising-34d399?style=for-the-badge" alt="DSA" />
+</p>
+
+---
+
+<h3 align="center">🔐 FEATURED PROJECT</h3>
+
+<p align="center">
+  <a href="https://github.com/renissshh/TrustVault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=renissshh&repo=TrustVault&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="TrustVault" /></a>
 </p>
 
 ---
