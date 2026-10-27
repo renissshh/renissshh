@@ -5,11 +5,7 @@
 <h3><i>"Better to be an open sinner, than a false saint."</i></h3>
 <br>
 
-<img src="matrix.svg" alt="Falling 0s and 1s settling into a sculpture" width="260">
-
-<br><br>
-
-<img src="assets/terminal.svg?v=2" alt="terminal card" width="520">
+<img src="assets/hero.svg?v=3" alt="Sculpture made of falling 0s and 1s beside a terminal card" width="800">
 
 </div>
 
@@ -24,18 +20,13 @@
 <p align="center"><img src="assets/h-stack.svg" alt="stack" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,js,nodejs,express,react,mongodb,python,docker,linux,git,github,html,css,tailwind,vscode,postman&perline=8&theme=dark" alt="Tech stack" />
+  <img src="assets/stack.svg?v=3" alt="Tech stack: AWS, JavaScript, Node.js, Express, React, MongoDB, Python, Docker, Linux, Git, GitHub, HTML, Tailwind, Postman" width="532" />
 </p>
 
 <p align="center"><img src="assets/h-stats.svg" alt="stats" /></p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=renissshh&show_icons=true&title_color=c1121f&text_color=e8e4dc&icon_color=c1121f&bg_color=0b0b0c&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renissshh&layout=compact&title_color=c1121f&text_color=e8e4dc&icon_color=c1121f&bg_color=0b0b0c&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=renissshh&theme=dark&hide_border=true&background=0b0b0c&ring=c1121f&fire=c1121f&currStreakLabel=c1121f&currStreakNum=e8e4dc&sideNums=e8e4dc&sideLabels=8a8680&dates=8a8680" alt="Streak" />
 </p>
 
 <p align="center"><img src="assets/h-activity.svg" alt="activity" /></p>
