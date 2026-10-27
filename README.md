@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6f5c&height=120&section=header&text=SRINITHISH&fontColor=34d399&fontSize=42&fontAlign=50&fontAlignY=45&desc=INTJ%20%C2%B7%20THE%20ARCHITECT&descColor=9ca3af&descSize=16&descAlignY=72" alt="SRINITHISH - INTJ - The Architect" />
+<img src="banner.jpg" alt="Black and white banner" width="100%">
+<br><br>
+<h3><i>"Better to be an open sinner, than a false saint."</i></h3>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=700&height=40&lines=%3E+first-year+student;%3E+building+reliable+software;%3E+growing+into+systems+%26+networks;%3E+shipping+projects+on+GitHub" alt="typing intro" />
 
@@ -62,7 +65,7 @@
 
 <!-- Radar values are the five numbers (0-10) after "data:" in the URL: Intel, Spiritual, Core, Psyche, Physical -->
 <p align="center">
-  <img width="420" src="https://quickchart.io/chart?bkg=%230d1117&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Intel%27%2C%27Spiritual%27%2C%27Core%27%2C%27Psyche%27%2C%27Physical%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27SriNithish%27%2Cdata%3A%5B6%2C4%2C7%2C6%2C5%5D%2CbackgroundColor%3A%27rgba(52%2C211%2C153%2C0.35)%27%2CborderColor%3A%27rgb(52%2C211%2C153)%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscale%3A%7Bticks%3A%7Bmin%3A0%2Cmax%3A10%2Cdisplay%3Afalse%7D%2CgridLines%3A%7Bcolor%3A%27%23666%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23cde%27%2CfontSize%3A16%7D%7D%7D%7D" alt="Skill radar chart" />
+  <img width="420" src="https://quickchart.io/chart?bkg=%230d1117&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Intel%27%2C%27Spiritual%27%2C%27Core%27%2C%27Psyche%27%2C%27Physical%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Nissshh.h!%27%2Cdata%3A%5B6%2C4%2C7%2C6%2C5%5D%2CbackgroundColor%3A%27rgba(52%2C211%2C153%2C0.35)%27%2CborderColor%3A%27rgb(52%2C211%2C153)%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscale%3A%7Bticks%3A%7Bmin%3A0%2Cmax%3A10%2Cdisplay%3Afalse%7D%2CgridLines%3A%7Bcolor%3A%27%23666%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23cde%27%2CfontSize%3A16%7D%7D%7D%7D" alt="Skill radar chart" />
 </p>
 
 ---
