@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="assets/terminal.svg" alt="terminal card" width="520">
+<img src="assets/terminal.svg?v=2" alt="terminal card" width="520">
 
 </div>
 
