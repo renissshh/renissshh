@@ -29,19 +29,19 @@ const total = days.reduce((s, d) => s + d.contributionCount, 0);
 
 const grid = Array.from({ length: 5 }, (_, i) => {
   const v = Math.round((max * i) / 4);
-  return `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" stroke="#1f2a37"/><text x="${L - 8}" y="${y(v) + 4}" text-anchor="end">${v}</text>`;
+  return `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" stroke="#222224"/><text x="${L - 8}" y="${y(v) + 4}" text-anchor="end">${v}</text>`;
 }).join("");
 const labels = days
   .map((d, i) => (i % 5 === 0 ? `<text x="${x(i)}" y="${H - 14}" text-anchor="middle">${d.date.slice(5)}</text>` : ""))
   .join("");
-const dots = days.map((d, i) => `<rect x="${x(i) - 3}" y="${y(d.contributionCount) - 3}" width="6" height="6" fill="#fff"/>`).join("");
+const dots = days.map((d, i) => `<rect x="${x(i) - 3}" y="${y(d.contributionCount) - 3}" width="6" height="6" fill="#e8e4dc"/>`).join("");
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="'Courier New',monospace" font-size="12" fill="#9ca3af">
-<rect width="${W}" height="${H}" fill="#0d1117" stroke="#34d399" stroke-width="4"/>
-<text x="${W / 2}" y="34" text-anchor="middle" font-size="16" font-weight="bold" fill="#34d399">${user.toUpperCase()} // LAST 30 DAYS: ${total} CONTRIBUTIONS</text>
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="'Courier New',monospace" font-size="12" fill="#8a8680">
+<rect width="${W}" height="${H}" fill="#0b0b0c" stroke="#c1121f" stroke-width="2"/>
+<text x="${W / 2}" y="34" text-anchor="middle" font-size="16" font-weight="bold" fill="#e8e4dc">${user.toUpperCase()} // LAST 30 DAYS: ${total} CONTRIBUTIONS</text>
 ${grid}${labels}
-<polygon points="${L},${y(0)} ${pts.join(" ")} ${x(days.length - 1)},${y(0)}" fill="#34d399" fill-opacity=".2"/>
-<polyline points="${pts.join(" ")}" fill="none" stroke="#34d399" stroke-width="3" stroke-linejoin="miter"/>
+<polygon points="${L},${y(0)} ${pts.join(" ")} ${x(days.length - 1)},${y(0)}" fill="#c1121f" fill-opacity=".18"/>
+<polyline points="${pts.join(" ")}" fill="none" stroke="#c1121f" stroke-width="3" stroke-linejoin="miter"/>
 ${dots}
 </svg>`;
 
