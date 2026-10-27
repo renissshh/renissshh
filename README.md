@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Black and white banner" width="100%">
+<img src="assets/banner-digits.svg?v=1" alt="Black and white banner of men in suits and hats, one with his hand raised" width="800">
 <br><br>
-<h3><i>"Better to be an open sinner, than a false saint."</i></h3>
+<img src="assets/quote.svg?v=1" alt="Better to be an open sinner, than a false saint." width="800">
 <br>
+
+<img src="assets/name.svg?v=1" alt="Nissshh.h! — first-year student" width="800">
 
 <img src="assets/hero.svg?v=3" alt="Sculpture made of falling 0s and 1s beside a terminal card" width="800">
 
