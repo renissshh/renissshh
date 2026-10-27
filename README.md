@@ -7,6 +7,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=700&height=40&lines=%3E+first-year+student;%3E+building+reliable+software;%3E+growing+into+systems+%26+networks;%3E+shipping+projects+on+GitHub" alt="typing intro" />
 
+
+<img src="matrix.svg" alt="Falling 0s and 1s settling into a sculpture" width="360">
+
 </div>
 
 ---
