@@ -5,8 +5,6 @@
 <img src="assets/quote.svg?v=1" alt="Better to be an open sinner, than a false saint." width="800">
 <br>
 
-<img src="assets/name.svg?v=1" alt="Nissshh.h! — first-year student" width="800">
-
 <img src="assets/hero.svg?v=3" alt="Sculpture made of falling 0s and 1s beside a terminal card" width="800">
 
 </div>
