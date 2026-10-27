@@ -12,9 +12,9 @@
 <p align="center"><img src="assets/h-connect.svg" alt="connect" /></p>
 
 <p align="center">
-  <a href="https://github.com/renissshh"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/sri-nithish-a5182a291/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-  <a href="mailto:srnithishjk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
+  <a href="https://github.com/renissshh"><img src="assets/c-github.svg" alt="GitHub" width="64" /></a>
+  <a href="https://www.linkedin.com/in/sri-nithish-a5182a291/"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="64" /></a>
+  <a href="mailto:srnithishjk@gmail.com"><img src="assets/c-gmail.svg" alt="Email" width="64" /></a>
 </p>
 
 <p align="center"><img src="assets/h-stack.svg" alt="stack" /></p>
