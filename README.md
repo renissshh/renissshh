@@ -45,7 +45,7 @@
 <h3 align="center">📈 ACTIVITY GRAPH</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renissshh&bg_color=0d1117&color=34d399&line=34d399&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/renissshh/renissshh/output/activity-graph.svg" alt="Contribution graph" />
 </p>
 
 ---
@@ -55,17 +55,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renissshh/renissshh/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/renissshh/renissshh/output/github-snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/renissshh/renissshh/output/github-snake.svg" />
   </picture>
-</p>
-
----
-
-<h3 align="center">🕸️ SKILLS &amp; DATA</h3>
-
-<!-- Radar values are the five numbers (0-10) after "data:" in the URL: Intel, Core, Backend, Cloud (AWS), Security -->
-<p align="center">
-  <img width="420" src="https://quickchart.io/chart?bkg=%230d1117&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Intel%27%2C%27Core%27%2C%27Backend%27%2C%27Cloud%20(AWS)%27%2C%27Security%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Nissshh.h!%27%2Cdata%3A%5B7%2C6%2C6%2C4%2C5%5D%2CbackgroundColor%3A%27rgba(52%2C211%2C153%2C0.35)%27%2CborderColor%3A%27rgb(52%2C211%2C153)%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscale%3A%7Bticks%3A%7Bmin%3A0%2Cmax%3A10%2Cdisplay%3Afalse%7D%2CgridLines%3A%7Bcolor%3A%27%23666%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23cde%27%2CfontSize%3A16%7D%7D%7D%7D" alt="Skill radar chart" />
 </p>
 
 ---
