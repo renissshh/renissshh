@@ -35,6 +35,10 @@
   <img src="https://raw.githubusercontent.com/renissshh/renissshh/output/activity-graph.svg" alt="Contribution graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/renissshh/renissshh/output/activity-overview.svg" alt="Activity overview radar: commits, issues, pull requests, code review" width="520" />
+</p>
+
 <p align="center"><img src="assets/h-snake.svg" alt="snake" /></p>
 
 <p align="center">
